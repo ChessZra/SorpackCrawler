@@ -7,4 +7,11 @@ Feel free to use SorpackCrawler for your own convenience as well. It is availabl
 * Automatic data extraction: SorpackCrawler automatically navigates through the sorpack.com website, visiting different pages, and extracting information about products and their prices.
 * Deal analysis: The program analyzes the extracted data to identify the best deals available in the market.
 
+## Prerequisites
 
+Before running SorpackCrawler, ensure that you have the required dependencies installed. You can find the complete list of dependencies and their versions in the `requirements.txt` file.
+
+To install the dependencies, run the following command within your activated virtual environment:
+
+```shell
+pip install -r requirements.txt
